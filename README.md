@@ -2,11 +2,11 @@
 > Integração da SmartHint feita para lojas magento.
 
 
-Para magento 1.9.x
+Download para magento 1.9.x
 
 [(Versão 1.1.2)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.2/SmartHint-1.1.2.tgz)
 
-Para magento 1.5.x  (Necessário XML)
+Download para magento 1.5.x  (Necessário XML)
 
 [(Versão 1.0.6 - Necessário XML)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.2/SmartHint-1.0.6.tgz)
 
