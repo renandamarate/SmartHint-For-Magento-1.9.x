@@ -8,7 +8,7 @@ Download para magento 1.9.x
 
 Download para magento 1.5.x  (Necessário XML)
 
-[(Versão 1.0.6 - Necessário XML)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.2/SmartHint-1.0.6.tgz)
+[(Versão 1.0.6)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.2/SmartHint-1.0.6.tgz)
 
 ## Installation
 
