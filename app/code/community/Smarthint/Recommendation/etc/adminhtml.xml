@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <smarthint module="smarthint">
+            <title>SmartHint</title>
+            <sort_order>99</sort_order>
+            <children>
+                <items module="smarthint">
+                    <title>SmartHint Options</title>
+                    <sort_order>0</sort_order>
+                    <action>adminhtml/system_config/edit/section/smarthint</action>
+                </items>
+            </children>
+        </smarthint>
+    </menu>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <smarthint>
+                                        <title>SmartHint Options</title> <!-- Used in resources tree -->
+                                    </smarthint>
+                                </children>
+                            </config>
+                        </children>
+                    </system>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>

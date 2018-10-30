@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+    <name>SmartHint</name>
+    <version>1.1.2</version>
+    <stability>stable</stability>
+    <license>Software comercial</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Sistema de Recomenda&#xE7;&#xE3;o</summary>
+    <description>Sistema de Recomenda&#xE7;&#xE3;o</description>
+    <notes>1.0.0 - Recommendation system&#xD;
+1.0.1 - Order Capture + Bugfix linux installation&#xD;
+1.0.2 - More than one Stores&#xD;
+1.0.3 - Warning and logs&#xD;
+1.0.4 - Add logs on HandleOrder and Try Catch&#xD;
+1.0.5 - Send Order Post&#xD;
+1.0.6 - SmartHint-AnonymousConsumer &#xD;
+SmartHint-Session save get&#xD;
+1.0.7 - Add product and category read&#xD;
+1.0.8 - Bug fix on product management&#xD;
+1.0.9 - Domain used to process data added&#xD;
+1.1.0 - Bugfix read on configurable products &#xD;
+1.1.1 - Retrieve product value of configurable&#xD;
+1.1.2 - Bugfix when product dont have image</notes>
+    <authors><author><name>Danilo Dantas Soncini</name><user>danilosoncini</user><email>danilo.soncini@outlook.com</email></author><author><name>Carlos Renan Damarate</name><user>carlosdamarate</user><email>carlos.damarate@smarthint.com.br</email></author></authors>
+    <date>2018-10-26</date>
+    <time>12:24:59</time>
+    <contents><target name="magecommunity"><dir name="Smarthint"><dir name="Recommendation"><dir name="Helper"><file name="Data.php" hash="f0842303ab37b845843bab3dc9a9a6f1"/></dir><dir name="Model"><file name="Observer.php" hash="74da2d8a41b0903627741ddf7d4c0b84"/></dir><dir name="controllers"><file name="IndexController.php" hash="7c6b7a4ee195bf9c5e83679ba708b1b9"/></dir><dir name="etc"><file name="adminhtml.xml" hash="97cb0960cd2552854302023c0a5c1bb2"/><file name="config.xml" hash="fb897cf1c2de6035e524245bd83166e2"/><file name="system.xml" hash="d6ae12256210ab82b96ace3cfc5355b8"/></dir></dir></dir></target><target name="mage"><dir name="app"><dir name="etc"><dir name="modules"><file name="Smarthint_Recommendation.xml" hash="dce58546f1500a44a54d697640b8e053"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.4.0</min><max>7.2.0</max></php><extension><name>curl</name><min/><max/></extension></required></dependencies>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<tabs>
+		<smarthint translate="label" module="smarthint">
+			<label>SmartHint</label>
+			<sort_order>1</sort_order>
+		</smarthint>
+	</tabs>
+	<sections>
+		 <smarthint translate="label" module="smarthint">
+			 <label>SmartHint Options</label>
+			 <tab>smarthint</tab>
+			 <sort_order>5</sort_order>
+			 <show_in_default>1</show_in_default>
+			 <show_in_website>1</show_in_website>
+			 <show_in_store>1</show_in_store>
+			 <groups>
+				 <identify translate="label" module="smarthint">
+					 <label>SmartHint Options</label>
+					 <frontend_type>text</frontend_type>
+					 <sort_order>1</sort_order>
+					 <show_in_default>1</show_in_default>
+					 <show_in_website>1</show_in_website>
+					 <show_in_store>1</show_in_store>
+					 <fields>
+						 <nome translate="label">
+							 <label>Your company name or your full name: </label>
+							 <frontend_type>text</frontend_type>
+							 <validate>required-entry</validate>
+							 <sort_order>1</sort_order>
+							 <show_in_default>1</show_in_default>
+							 <show_in_website>1</show_in_website>
+							 <show_in_store>1</show_in_store>
+						 </nome>
+						 <email translate="label">
+							 <label>Your email: </label>
+							 <frontend_type>text</frontend_type>
+							 <validate>validate-email required-entry</validate>
+							 <comment>If you are already registered in SmartHint, use the same email.</comment>
+							 <sort_order>2</sort_order>
+							 <show_in_default>1</show_in_default>
+							 <show_in_website>1</show_in_website>
+							 <show_in_store>1</show_in_store>
+						 </email>
+					 </fields>
+				 </identify>
+			 </groups>
+		 </smarthint>
+	</sections>
+</config>

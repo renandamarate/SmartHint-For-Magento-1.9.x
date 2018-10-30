@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Smarthint_Recommendation>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Smarthint_Recommendation>
+    </modules>
+</config>
