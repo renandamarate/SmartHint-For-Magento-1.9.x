@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>SmartHint</name>
-    <version>1.1.2</version>
+    <version>1.1.6</version>
     <stability>stable</stability>
     <license>Software comercial</license>
     <channel>community</channel>
@@ -21,7 +21,10 @@ SmartHint-Session save get&#xD;
 1.0.9 - Domain used to process data added&#xD;
 1.1.0 - Bugfix read on configurable products &#xD;
 1.1.1 - Retrieve product value of configurable&#xD;
-1.1.2 - Bugfix when product dont have image</notes>
+1.1.2 - Bugfix when product dont have image&#xD;
+1.1.5 - Logs and panel "buy together" added&#xD;
+1.1.6 - Administrator content added
+</notes>
     <authors><author><name>Danilo Dantas Soncini</name><user>danilosoncini</user><email>danilo.soncini@outlook.com</email></author><author><name>Carlos Renan Damarate</name><user>carlosdamarate</user><email>carlos.damarate@smarthint.com.br</email></author></authors>
     <date>2018-10-26</date>
     <time>12:24:59</time>
