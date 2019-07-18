@@ -4,7 +4,7 @@
 
 Download para magento 1.9.x
 
-[(Versão 1.1.2)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.2/SmartHint-1.1.2.tgz)
+[(Versão 1.1.6)](https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/releases/download/v1.1.6/SmartHint-1.1.6.tgz)
 
 Download para magento 1.5.x  (Necessário XML)
 
@@ -30,10 +30,11 @@ Após configure sua conta em (System -> Configuration -> SmartHint)
 * 1.1.0 - Bugfix read on configurable products 
 * 1.1.1 - Retrieve product value of configurable
 * 1.1.2 - Bugfix when product dont have image
-
+* 1.1.5 - Logs and panel "buy together" added
+* 1.1.6 - Administrator content added
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/renandamarate/SmartHint-For-Magento-1.9.x>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -44,4 +45,4 @@ Após configure sua conta em (System -> Configuration -> SmartHint)
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/renandamarate/SmartHint-For-Magento-1.9.x/wiki
