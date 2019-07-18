@@ -42,6 +42,24 @@
 							 <show_in_website>1</show_in_website>
 							 <show_in_store>1</show_in_store>
 						 </email>
+						 <contact translate="label">
+							 <label>Contact name: </label>
+							 <frontend_type>text</frontend_type>
+							 <validate>required-entry</validate>
+							 <sort_order>3</sort_order>
+							 <show_in_default>1</show_in_default>
+							 <show_in_website>1</show_in_website>
+							 <show_in_store>1</show_in_store>
+						 </contact>
+						 <phone translate="label">
+							 <label>Your phone: </label>
+							 <frontend_type>text</frontend_type>
+							 <validate>validate-phone required-entry</validate>
+							 <sort_order>4</sort_order>
+							 <show_in_default>1</show_in_default>
+							 <show_in_website>1</show_in_website>
+							 <show_in_store>1</show_in_store>
+						 </phone>
 					 </fields>
 				 </identify>
 			 </groups>
